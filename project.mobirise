@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site 2024-04-25 09:08",
+    "name": "Presto",
     "currentPage": "index.html",
     "theme": {
       "name": "startm5",
@@ -48,7 +48,17 @@
       }
     ],
     "uniqCompNum": 18,
-    "versionPublish": "5.9.18"
+    "versionPublish": "5.9.18",
+    "favicon": "@PROJECT_PATH@/assets/images/presto-favicon-white-1_1.png",
+    "mbrsiteDomain": "wxp85lkp6f",
+    "imageResize": false,
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
