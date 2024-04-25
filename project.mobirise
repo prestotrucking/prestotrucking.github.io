@@ -50,7 +50,7 @@
     "uniqCompNum": 18,
     "versionPublish": "5.9.18",
     "favicon": "@PROJECT_PATH@/assets/images/presto-favicon-white-1_1.png",
-    "mbrsiteDomain": "wxp85lkp6f",
+    "mbrsiteDomain": "m0o3sbs1uh",
     "imageResize": false,
     "usedWebp": false,
     "robotsSwitcher": false,
@@ -64,8 +64,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Presto VTC",
+        "meta_descr": "We're a small, newly founded VTC on ETS2. We're trying to deter away from big VTCs with our unique style, and looking for players who love to truck!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
